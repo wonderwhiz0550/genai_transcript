@@ -1,0 +1,67 @@
+## UK Bank Call Transcript
+
+**Characters:**
+*   **Agent (David):** Calm, professional, methodical.
+*   **Customer (Sarah):** Frustrated, anxious.
+
+---
+
+**(Call Connects - Standard ringing tone then picks up)**
+
+**Agent (David):** Good morning, thank you for calling National Bank. My name is David, how can I help you today?
+
+**Customer (Sarah):** David, thank goodness. Something's seriously wrong with my account. I've been trying to log in for the last hour and it keeps saying my details are incorrect, and then I started getting these really weird emails.
+
+**Agent (David):** I understand this must be very concerning, Sarah. To protect your account, could I please take your full name and date of birth?
+
+**Customer (Sarah):** Yes, it's Sarah Davies, D-A-V-I-E-S. And my date of birth is the 14th of April, 1988.
+
+**Agent (David):** Thank you, Sarah. And just for security, could you confirm the first line of your address and your postcode?
+
+**Customer (Sarah):** It's Flat 3, 17 Elm Road, and the postcode is SW1A 0AA.
+
+**Agent (David):** Perfect, thank you. One moment while I access your details. Right, Sarah, I've located your account. You mentioned issues logging in and some unusual emails. Can you tell me more about what's happening?
+
+**Customer (Sarah):** Well, I tried logging into my online banking, and it just wouldn't let me. I know my password! Then, I got an email saying my contact details had been updated – my email address and my phone number! But I didn't do that! And these other emails started coming in, from some really odd addresses, saying there were "suspicious logins" and asking me to click links.
+
+**Agent (David):** I see. That's definitely concerning. Let's investigate this. When was the last time *you* successfully logged into your online banking?
+
+**Customer (Sarah):** This morning, around 9 AM, to check a Faster Payment I was expecting. Everything was fine then.
+
+**Agent (David):** Okay. And you're saying your registered email address and phone number have been changed without your authorisation? Could you tell me what your correct, current email address and phone number *should* be?
+
+**Customer (Sarah):** My email is sarah.davies@email.com, and my phone number is 07700 900345. It's definitely not what's showing on those emails I got.
+
+**Agent (David):** Thank you for confirming those. Looking at your account, I can see multiple failed login attempts in the last hour and a recent change to your registered contact details, which aligns with what you're describing. Just to clarify, have you shared your PIN, your full login details, or any one-time passcodes with anyone recently?
+
+**Customer (Sarah):** Absolutely not! I know better than that. That's why I'm so confused and angry. I'm very careful with my banking details.
+
+**Agent (David):** And those odd emails you mentioned, were they asking you to click on a link or to 'verify' your account details?
+
+**Customer (Sarah):** Yes, exactly! They looked like they were from the bank, but the sender's address was gibberish. I didn't click anything, thank goodness. I just closed them.
+
+**Agent (David):** That was absolutely the right thing to do, Sarah. It sounds like you've been targeted by a phishing attempt, and unfortunately, it appears someone has gained access to your online banking and tried to make changes.
+
+**Customer (Sarah):** Oh my god. Are my funds safe? Has anything gone out? I can't even check my balance!
+
+**Agent (David):** Please try not to worry, Sarah. Your funds are secured. As a first step, I am immediately freezing your online banking access to prevent any further unauthorised activity. I'm also blocking any further changes to your account details.
+
+**Customer (Sarah):** So what happens now?
+
+**Agent (David):** Our dedicated Fraud Prevention team needs to take over from here. They will review the login attempts, revert your contact details to your correct ones, and help you reset your online banking credentials securely. They will also check for any suspicious transactions, though at this stage, it appears the main attempt was to gain control of your account, rather than immediate funds transfer.
+
+**Customer (Sarah):** And how quickly will they call me? I need this sorted.
+
+**Agent (David):** They will call you back within the next 15 to 20 minutes, Sarah, from a secure, internal line. Please ensure you're available to take the call. They will guide you through the process of regaining secure access to your account.
+
+**Customer (Sarah):** Okay. As long as it gets fixed. This is ridiculous.
+
+**Agent (David):** I completely understand your frustration, Sarah. We take these incidents very seriously. Is there anything else I can assist you with right now, before the Fraud Prevention team calls?
+
+**Customer (Sarah):** No, just get this sorted, please.
+
+**Agent (David):** We'll do our best. Thank you for calling National Bank.
+
+**Customer (Sarah):** Thanks.
+
+**(Call Ends)**

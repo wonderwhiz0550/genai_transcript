@@ -1,0 +1,80 @@
+## UK Bank Call Transcript: Unauthorised Account
+
+**Characters:**
+
+*   **Sarah (Agent):** Calm, professional, empathetic, methodical.
+*   **Mr. Davies (Customer):** Anxious, slightly flustered, concerned.
+
+---
+
+**(Call connects, faint keyboard clicking in the background)**
+
+**Sarah:** Good morning, thank you for calling Horizon Bank. My name is Sarah, how can I help you today?
+
+**Mr. Davies:** (Voice slightly shaky) Oh, Sarah, thank goodness. I... I'm calling because I'm absolutely frantic. I think someone's opened a bank account in my name without my consent.
+
+**Sarah:** Oh dear, I understand that must be incredibly distressing, Mr. Davies. Please try to take a deep breath. Can you confirm your full name for me, please?
+
+**Mr. Davies:** Yes, it's Mark Davies. D-A-V-I-E-S.
+
+**Sarah:** Thank you, Mr. Davies. And for security, could you please provide your postcode and the first line of your address?
+
+**Mr. Davies:** It's [Customer's Postcode], and [Customer's Address First Line].
+
+**Sarah:** Perfect, thank you. Now, you mentioned an account opened without your consent. Can you tell me what makes you believe this has happened?
+
+**Mr. Davies:** Well, I was checking my credit report – you know, Experian, ClearScore, all those – and I saw a new credit search listed. It was from a bank I don't even have an account with, and it was for a *new account application*. I haven't applied for anything! And then I looked closer, and there were a couple of other searches from different lenders I didn't recognise either, all within the last week or so. It's just... it's not right.
+
+**Sarah:** I completely understand your unease, Mr. Davies. This is a serious matter. Do you recall the name of the bank or financial institution that conducted the credit search for the new account?
+
+**Mr. Davies:** (Hesitates) Uh, that's the thing. It was... it was something like 'Global Finance Solutions' or 'Universal Credit Bank'. It wasn't one of the big high street banks, you know? It just popped up, and it was for a current account, not a loan or anything.
+
+**Sarah:** Right, so a potentially unfamiliar entity. Have you received any correspondence – physical mail or emails – from this 'Global Finance Solutions' or 'Universal Credit Bank' or any other suspicious letters lately? Perhaps a welcome pack, or a PIN reminder?
+
+**Mr. Davies:** Not that I've noticed. I mean, I get a lot of junk mail, I usually just bin it. And my email is full of spam, so I wouldn't have thought twice about it. But no, nothing that specifically screamed "new bank account."
+
+**Sarah:** Okay. And have you noticed any unusual activity on your *existing* Horizon Bank accounts, or any other accounts you hold elsewhere? Any unexpected transactions, or direct debits you don't recognise?
+
+**Mr. Davies:** No, my Horizon account seems fine. All my usual direct debits and standing orders are there. No weird BACS payments or CHAPS transfers going out. That's why I'm so confused. It's like they've just used my name to open this new thing, but haven't touched my actual money. *Yet*.
+
+**Sarah:** It's good that your existing accounts appear secure. This suggests it might be an attempt at identity theft rather than direct financial fraud on your current funds, but we must treat it with the utmost seriousness. Have you lost any personal documents recently, such as your driving licence, passport, or utility bills?
+
+**Mr. Davies:** No, not that I'm aware of. Everything's where it should be. I'm usually very careful.
+
+**Sarah:** Understood. Mr. Davies, based on what you've told me, it sounds like you're a victim of potential identity fraud. We need to act quickly to minimise any further risk. I'm going to log a formal fraud report for you now. This will initiate an internal investigation.
+
+**Mr. Davies:** What does that mean? Can you just stop it? Can you close this account they've opened?
+
+**Sarah:** I understand your urgency, Mr. Davies. As the account wasn't opened with Horizon Bank, we cannot directly close it. However, what we *can* do is register a protective marker against your name and details with CIFAS – that's the UK's fraud prevention service. This will alert other financial institutions if anyone attempts to open further accounts in your name. It's a crucial step.
+
+**Mr. Davies:** Okay, so CIFAS. And then what?
+
+**Sarah:** Firstly, I strongly advise you to contact each of the main credit reference agencies – Experian, Equifax, and TransUnion – as soon as possible. Explain the situation and ask them to place a "protective registration" or "notice of correction" on your file. This flags your file to lenders, making them more vigilant when processing applications in your name. You can usually do this online or over the phone.
+
+**Mr. Davies:** So I have to do that myself?
+
+**Sarah:** Yes, unfortunately, you'll need to contact them directly as they hold your credit file. I can provide you with their contact details if you need them. Secondly, you should report this incident to Action Fraud. That's the UK's national reporting centre for fraud and cyber crime. They will give you a crime reference number, which can be useful for any follow-up actions with other organisations.
+
+**Mr. Davies:** Action Fraud. Right. This is all just... overwhelming.
+
+**Sarah:** I know it feels that way, Mr. Davies, but we're here to help guide you through it. I'll make sure all the necessary internal alerts are in place on your Horizon Bank profile. We'll monitor your accounts closely for any suspicious activity from our end.
+
+**Mr. Davies:** How long will this investigation take? Will my credit score be ruined?
+
+**Sarah:** The internal investigation may take a few working days, and we'll be in touch if we uncover anything specific relating to your Horizon Bank accounts. Regarding your credit score, while an unauthorised search can temporarily impact it, taking these immediate steps like contacting the credit agencies and CIFAS will help mitigate long-term damage. It shows you're proactive in protecting your identity.
+
+**Mr. Davies:** Okay. So, to summarise: you're logging a fraud report, putting a CIFAS marker on my name, and I need to contact Experian, Equifax, TransUnion, and Action Fraud. Is that everything?
+
+**Sarah:** That's correct, Mr. Davies. I would also recommend changing the passwords for your email accounts, online banking, and any other important online services, just as a precautionary measure. It's a good habit to change them regularly anyway.
+
+**Mr. Davies:** Good point. I'll do that.
+
+**Sarah:** Is there anything else I can assist you with today, Mr. Davies?
+
+**Mr. Davies:** No, I think that's it for now. Thank you, Sarah. You've been very helpful. I just hope they catch whoever did this.
+
+**Sarah:** You're most welcome, Mr. Davies. We'll do everything we can from our end. Please don't hesitate to call us back if you notice anything else unusual. Have a good day.
+
+**Mr. Davies:** You too. Goodbye.
+
+**(Call ends)**

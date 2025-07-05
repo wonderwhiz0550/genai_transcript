@@ -1,0 +1,66 @@
+## UK Bank Call Transcript
+
+**Characters:**
+
+*   **Sarah:** Bank Agent (calm, professional, knowledgeable)
+*   **Mr. Davies:** Customer (confused, worried, slightly flustered)
+
+---
+
+**(Call Connects)**
+
+**Sarah:** Thank you for calling [Bank Name], my name is Sarah, how can I help you today?
+
+**Mr. Davies:** Hello Sarah, it's Mr. Davies here. I've just had a really odd call... I think it might have been a scam, but I'm not sure. I'm a bit shaken, to be honest.
+
+**Sarah:** Okay, I understand, Mr. Davies. Please take a moment. Could you tell me a bit more about what happened, please?
+
+**Mr. Davies:** Well, someone called me, said they were from the bank, said there was suspicious activity on my account. They knew my full name, my address... it sounded very legitimate. They said a large **Faster Payment** was about to leave my account and they needed to 'verify' my details to stop it.
+
+**Sarah:** Right. And what exactly did they ask you to do or provide?
+
+**Mr. Davies:** They asked for my sort code and account number, which I gave them. Then they said they needed to send me a **one-time passcode – an OTP** – to my phone, and asked me to read it back to them. That's when I got a really bad feeling. I remembered something about banks never asking for those. I told them I wasn't comfortable and hung up.
+
+**Sarah:** Thank you for being so clear, Mr. Davies. Just to confirm, you *did not* provide them with that OTP, or your full PIN?
+
+**Mr. Davies:** No, definitely not the OTP. And they didn't ask for my PIN, just the OTP. That's when I hung up. I remembered the bank always says not to share them.
+
+**Sarah:** That's very good, Mr. Davies. You've done exactly the right thing by hanging up and calling us immediately. This was absolutely a scam call.
+
+**Mr. Davies:** Oh dear. It felt so real though! The number on my phone even showed up as your main customer service line.
+
+**Sarah:** That's a common tactic, Mr. Davies. It's called 'caller ID spoofing'. Fraudsters can make any number appear on your phone, even legitimate bank numbers, to trick you into trusting them and creating a sense of **urgency**. Banks will *never* ask you for your full PIN or a One-Time Passcode (OTP) over the phone, via text, or email. Not even to 'verify' your identity or stop a payment.
+
+**Mr. Davies:** So, they have my sort code and account number. Is that bad?
+
+**Sarah:** While your sort code and account number are often on invoices and generally considered less sensitive than a PIN or OTP, it's still prudent for us to take some immediate steps to ensure your security. I'm just going to place a temporary block on any outgoing **Faster Payments** from your account for the next 15 minutes while I check for any unusual activity.
+
+**Mr. Davies:** Oh, thank you.
+
+**Sarah:** While I'm doing that, please could you just confirm your full name and date of birth for security?
+
+**Mr. Davies:** Yes, it's John Davies, and my date of birth is 15th May 19XX.
+
+**Sarah:** Thank you, Mr. Davies. Just a moment while I check...
+
+**(Short pause)**
+
+**Sarah:** Okay, Mr. Davies, I've checked your account thoroughly, and I can see no unauthorised transactions, no new payees set up, and no attempts to log into your online banking since this call. That's excellent news. The temporary block will lift automatically, but we'll flag your account for close monitoring for the next few days.
+
+**Mr. Davies:** Oh, that's a huge relief.
+
+**Sarah:** I would strongly advise you to change your online banking password as a precautionary measure, just in case any other details were compromised, even inadvertently. And please remember, if you're ever unsure about a call claiming to be from us, hang up immediately and call us back on the number on the back of your debit card or our official website. Never use a number they give you.
+
+**Mr. Davies:** I certainly will. This has been a real eye-opener.
+
+**Sarah:** For more information on staying safe from scams, you can also visit the **UK Finance 'Take Five to Stop Fraud'** campaign website. It has excellent resources.
+
+**Mr. Davies:** Thank you so much, Sarah. I was really worried. I feel much better now.
+
+**Sarah:** You're very welcome, Mr. Davies. It's an unsettling experience, but you acted quickly and smartly. Is there anything else I can assist you with today?
+
+**Mr. Davies:** No, that's everything. Thanks again.
+
+**Sarah:** Thank you for calling [Bank Name], have a good day.
+
+**(Call Ends)**

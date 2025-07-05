@@ -1,0 +1,78 @@
+## UK Bank Call Transcript: "Urgent Payment" Fraud Attempt
+
+**Characters:**
+
+*   **Sarah:** Bank Customer Service Agent (Calm, professional, trained in fraud detection)
+*   **Mr. Davies (Fraudster):** Posing as the customer (Initially confident, becomes flustered and aggressive)
+
+---
+
+**[Call connects. Sound of keyboard clicking softly in background.]**
+
+**Sarah:** Good morning, you're through to Sarah at Sterling Bank. How can I help you today?
+
+**Mr. Davies:** Yeah, hi Sarah. It's Mr. Davies here, David Davies. I need to make an urgent payment, a large one, and I'm having a bit of trouble with the online banking.
+
+**Sarah:** Of course, Mr. Davies. I can certainly help you with that. To start, for security purposes, could you please confirm your full name and date of birth?
+
+**Mr. Davies:** David Michael Davies. And my date of birth is the 14th of April, 1972.
+
+**Sarah:** Thank you, Mr. Davies. And for further verification, could you confirm the first line of your address and your postcode, please?
+
+**Mr. Davies:** Right, it's 23 Willow Lane, and the postcode is BN1 7FG.
+
+**Sarah:** Thank you. Just a moment while I bring up your account.
+**[Pause, sound of typing]**
+Okay, I have an account for a Mr. David Michael Davies at that address. To fully verify it's you, can you tell me the sort code for the account you're calling about?
+
+**Mr. Davies:** Uh, the sort code... right. Just a sec, I've got so many accounts these days. Is it, um, 20-45-78?
+
+**Sarah:** I'm showing a different sort code for this account, Mr. Davies. Could you try again? Perhaps the one on your debit card?
+
+**Mr. Davies:** Oh, right, my mistake. It's 40-12-34. Yes, that's the one. Definitely.
+
+**Sarah:** Thank you. And could you tell me what the last three transactions were on this account, including the amounts, if possible?
+
+**Mr. Davies:** The last three... hmm. Look, I don't really keep track of every single penny, do I? There was a payment for, uh, some utilities, and a transfer to my son, I think. And something else, can't quite recall. It's been a busy week.
+
+**Sarah:** I understand. Just to confirm your identity, can you give me any specific amounts or dates for those transactions? For example, your most recent direct debit?
+
+**Mr. Davies:** Uh, no, I can't off the top of my head. It's just general household stuff. Look, this payment is really time-sensitive. Can we just get on with it? I need to send £45,000 to a new supplier.
+
+**Sarah:** I appreciate the urgency, Mr. Davies. However, due to the value of the payment and for your account security, I do need to complete our verification process. Can you tell me what device you usually log into your online banking with?
+
+**Mr. Davies:** My phone. Always my phone.
+
+**Sarah:** And do you use biometric login, like fingerprint or face ID, on your banking app?
+
+**Mr. Davies:** Yeah, yeah, I do. It's a fingerprint.
+
+**Sarah:** Okay. Just to confirm, when was the last time you logged into your online banking using your phone and fingerprint?
+
+**Mr. Davies:** Uh, this morning. No, wait, yesterday. Or maybe the day before. It's, you know, whenever I need to check something. It's all a bit of a blur.
+
+**Sarah:** I see. My system is showing that the last login from a mobile device was over two weeks ago, and it was not using a biometric method. It appears to have been from a desktop computer.
+
+**Mr. Davies:** What? No, that can't be right. I always use my phone. Your system must be wrong. I need to make this payment. It's a CHAPS payment, so it needs to go through today. This is holding up a vital business deal.
+
+**Sarah:** Mr. Davies, I understand your frustration, but there are inconsistencies with the information you've provided, which is raising a security flag on your account. For your protection, I cannot proceed with any transactions until we can definitively verify your identity.
+
+**Mr. Davies:** This is ridiculous! I *am* David Davies! What more do you want? I've given you my name, my address, my date of birth! This is appalling customer service!
+
+**Sarah:** I apologise for any inconvenience, Mr. Davies, but our priority is the security of your funds. Given the discrepancies, I'm unable to authorise this payment. What I can do is put a temporary hold on your account to prevent any unauthorised activity, and then escalate this to our specialist fraud team. They can then call you back on your registered phone number to complete a more thorough verification.
+
+**Mr. Davies:** A hold? Are you serious? No, absolutely not! Don't you dare put a hold on my account! I need access to my money! This is outrageous!
+
+**Sarah:** Mr. Davies, I'm afraid I must follow our security protocols. Due to the inconsistent information and the high value of the requested transaction, I cannot proceed. I'm going to place a temporary security block on your account and refer this to our fraud department immediately. They will contact you shortly.
+
+**Mr. Davies:** You... you can't do that! This is completely unacceptable! I'm going to complain! You'll hear from my solicitor! This is a joke!
+
+**Sarah:** I understand your concerns, Mr. Davies, but this is for your protection. The fraud team will be in touch. Is there anything else I can assist you with today, keeping in mind the account is now temporarily restricted?
+
+**Mr. Davies:** **[Shouting]** No! There's nothing else! This is a disgrace!
+**[Sound of phone being slammed down]**
+
+**Sarah:** **[To herself]** And that's another one.
+**[Sound of Sarah typing, bringing up internal notes, flagging the account for fraud investigation.]**
+
+---
