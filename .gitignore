@@ -1,0 +1,4 @@
+venv/
+*.csv
+*.xlsx
+.DS_Store
