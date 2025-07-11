@@ -51,3 +51,28 @@ using Gemini 2.5 Flash (free tier). Analyze these for fraud modus operandi, cust
   - Incorporate existing and new features into the model.
   - Compare performance against the current model to assess improvements.
   - Design tailored customer nudges (e.g., fraud alerts) based on findings.
+
+# Phase 1: Objective and Execution
+### Objective: 
+Generate a realistic UK bank call transcript for Account Takeover (ATO) to test and refine prompt design, then replicate for other fraud types: Card-not-present (CNP) Fraud, Card-present Fraud, Application Fraud, Social Engineering & Impersonation, Authorised Push Payment (APP) Fraud, and Other Notable Forms. Later, generate 3-4 transcripts per fraud type with varied durations.
+### Details:
+- Include fraud indicators (e.g., urgency, vague responses), UK banking terms (e.g., Faster Payments, sort code), and agent investigative questions (e.g., verification, transaction details).
+- Vary durations: short (~3-5 min, ~150-250 words), medium (~7-10 min, ~350-500 words), long (~10+ min, ~500+ words).
+- Generate a dynamic fraud modus operandi (MO) for ATO using a separate prompt, include it in the transcript prompt, and save it in the CSV.
+- Save transcript as a text file and metadata (Transcript_ID, Scenario, Duration, Word_Count, Fraud_Indicators, File_Path, Fraud_Modus_Operandi) in a CSV.
+- Use a generic UK bank.
+### Phase 1 Scope:
+Start with one ATO transcript with a dynamically generated MO, iterate for realism, then expand to 3-4 transcripts per fraud type.
+
+### Execution Steps
+- Setup Environment
+- Navigate to project folder, activate virtual environment, install google-generativeai and pandas.
+- Set Gemini API key in ~/.zshrc.
+- Design Prompts:
+  Create a prompt to generate a realistic ATO fraud modus operandi.
+  Craft a transcript prompt for ATO, embedding the generated MO, ensuring UK context, realistic dialogue, and investigative questions.
+- Generate and Iterate: Use Gemini 2.5 Flash to generate one ATO transcript with the dynamic MO, iterate based on realism feedback.
+- Save Outputs: Save transcript in outputs/transcripts/ as .txt.
+  Save metadata, including dynamic MO, in outputs/transcripts_metadata.csv.
+- Sync with GitHub:
+  Commit notebook and outputs to GitHub.
