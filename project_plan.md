@@ -76,3 +76,24 @@ Start with one ATO transcript with a dynamically generated MO, iterate for reali
   Save metadata, including dynamic MO, in outputs/transcripts_metadata.csv.
 - Sync with GitHub:
   Commit notebook and outputs to GitHub.
+
+# Phase 2: Using Transcript to Generate features
+### Objective: 
+Use Gemini 2.5 Flash to analyze synthetic Account Takeover (ATO) transcripts from outputs/transcripts_metadata.csv and text files to generate and validate fraud modus operandi, then recommend advanced features for the existing fraud detection model to address missed frauds (approved transactions reported by customers via inbound calls), reducing false positives.
+### Inputs:
+transcripts_metadata.csv and transcript text files (Transcript_ID, Scenario, Duration, Word_Count, File_Path, Fraud_Indicators, Fraud_Modus_Operandi).
+Existing fraud model features and raw variables (to be provided).
+### Key Tasks:
+- Extract Fraud Patterns and Modus Operandi: Analyze transcripts for patterns (e.g., urgency, vague responses, keywords like "suspicious"), generate a 1-2 line modus operandi, and validate it against the provided Fraud_Modus_Operandi in the CSV.
+- Generate Advanced Feature Recommendations: Use Gemini 2.5 Flash to recommend sophisticated features (beyond average intelligence) based on fraud patterns, generated MO, and provided raw variables, explaining why the fraud was missed. Include feature name, description, required raw variables, and a BigQuery SQL script to create each feature.
+- Save Results: Store analysis (patterns, generated MO, validation result) and feature recommendations in a CSV for Phase 3.
+### UK Context:
+Align with UK banking terms (e.g., Faster Payments, sort code) and ATO fraud scenarios.
+### Constraints: 
+Use free tools (Gemini 2.5 Flash, Python, JupyterLab), scalable, runs on MacBook Air M4.
+### Future Scope: 
+Feed results into Phase 3 for model development and tailored customer nudges.
+### Assumptions:
+- Transcripts represent inbound calls reporting missed frauds.
+- Existing model scores transactions, applies rules, and misses some frauds.
+- Feature recommendations should be innovative, leveraging your provided model features and raw variables.
