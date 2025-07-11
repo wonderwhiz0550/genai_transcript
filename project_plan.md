@@ -97,3 +97,19 @@ Feed results into Phase 3 for model development and tailored customer nudges.
 - Transcripts represent inbound calls reporting missed frauds.
 - Existing model scores transactions, applies rules, and misses some frauds.
 - Feature recommendations should be innovative, leveraging your provided model features and raw variables.
+
+# Sequential Steps for Phase 2 Development
+To ensure a structured and manageable approach to Phase 2, I’ve broken it down into small, sequential steps. This keeps the process clear and focused, aligning with the requirement for concise, step-by-step solutions.
+
+### Provide Existing Model Features and Raw Variables:
+### Extract Fraud Patterns and Generate Modus Operandi:
+- Analyze transcripts from outputs/transcripts_metadata.csv and text files to extract fraud patterns (e.g., keywords, urgency).
+- Generate a 1-2 line modus operandi for each transcript and validate against the provided Fraud_Modus_Operandi.
+- Output: Save patterns and generated MO in an intermediate CSV.
+### Recommend Advanced Features:
+- Use Gemini 2.5 Flash to recommend sophisticated features based on patterns, generated MO, and provided raw variables, explaining why the fraud was missed.
+- Include feature name, description, required raw variables, and a BigQuery SQL script.
+- Output: Save recommendations in a final CSV for Phase 3.
+### Validate and Save Results:
+- Combine analysis (patterns, MO, validation results) and feature recommendations into a single CSV.
+- Sync with GitHub (https://github.com/svdp2304/genai_transcript).
