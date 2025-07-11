@@ -1,0 +1,61 @@
+A: Thank you for calling Bank Name, my name is Alex. Can I take your full name please?
+
+C: Yes, it's Sarah Davies. I'm calling because I think I've been scammed. I'm really worried, Alex.
+
+A: I understand, Ms Davies. Please try to stay calm. I'm here to help. Can you tell me what's happened?
+
+C: Well, I got a call yesterday evening. It came up on my phone as a local number, but the man said he was from your fraud prevention team. He said there was suspicious activity on my credit card, a really big purchase. I'd also had a few strange texts earlier in the day, like fake bank alerts, so I thought it was legitimate.
+
+A: I see. And what happened during that call, Ms Davies?
+
+C: He sounded so professional, very calm. He said to verify my identity he needed my full credit card number, the expiry date, and the three digits on the back. I hesitated, but he said it was standard procedure for fraud investigations. Then he said he needed me to read out some one-time passcodes, OTPs, that would be sent to my phone to block the suspicious transactions. I read them out, because I thought I was stopping fraud.
+
+A: Thank you for being so open, Ms Davies. That sounds like a very distressing experience. I'm going to put a temporary block on your credit card immediately to prevent any further activity. Is that alright?
+
+C: Yes, please. I'm already seeing transactions. Loads of them. And my mobile banking app is showing a new device linked to my digital wallet, which isn't mine!
+
+A: Okay, I've placed that block for you. Now, let's go through some details so I can fully understand what's happened. When did you last log in to your actual online banking or mobile app yourself, before this call yesterday?
+
+C: I think it was... hmm, maybe the day before yesterday, or early yesterday morning. I definitely didn't log in after I spoke to him.
+
+A: And just to confirm, you did provide your full credit card number, expiry date, CVV, and those OTPs to the person on the phone?
+
+C: Yes, I did. I know, I feel so stupid. He was very convincing.
+
+A: Please don't blame yourself, Ms Davies. These fraudsters are highly sophisticated. They use social engineering tactics to exploit trust. Can you describe the unusual transactions you're seeing?
+
+C: Yes. There are about five or six of them. One is for over a thousand pounds to some online electronics store, another is a similar amount to a gaming site, and then a few smaller ones. And then that new device notification. I'm so worried about the money.
+
+A: Thank you. We'll investigate every one of those. What device do you typically use for your online banking and mobile app, Ms Davies? Is it your personal mobile phone or a computer?
+
+C: My personal iPhone. I always keep it updated.
+
+A: Right. And have you, at any point, shared your banking PIN with anyone, or any passwords for your online banking?
+
+C: No, never. Just what I told you about the credit card and the OTPs. And I've never clicked on any links from those suspicious texts either, just deleted them.
+
+A: That's important to know. What you've described is a classic account takeover fraud modus operandi. Fraudsters pose as bank staff, often using spoofed phone numbers, to trick customers into giving away sensitive information like credit card details and one-time passcodes. They then use those details to make large online purchases or add your card to their own digital wallet for immediate use.
+
+C: So what happens now? Will I get my money back?
+
+A: We'll do everything we can to recover your funds. We'll be logging this as a full fraud case, and we'll raise disputes for those unauthorised transactions. We work closely with UK Finance and other industry bodies to tackle these types of scams. You won't be held responsible for any transactions you didn't authorise, provided you haven't acted fraudulently yourself.
+
+A: As a next step, I'd strongly recommend that you change the passwords for your online banking, email, and any other important accounts you have, just as a precaution. Even though you didn't give out your online banking password, it's good practice. Also, please check your phone for any new apps you don't recognise.
+
+C: Okay, I'll do that.
+
+A: We'll be sending you a letter with a case reference number within three to five working days, confirming the card has been blocked and outlining the next steps for your fraud claim. This will also include details on how to report this to Action Fraud, which is the national reporting centre for fraud and cyber crime. While we're investigating, it's important for them to have a record.
+
+A: For future security, please remember that we will never call you and ask for your full card number, expiry date, CVV, or full PIN. We will also never ask you to read out an OTP to 'stop' a transaction or to verify your identity over the phone for security purposes. OTPs are for authorising payments or changes you are making. Be wary of any urgency or pressure tactics. We monitor all account activity very closely, whether it's credit card transactions, Faster Payments, or transfers between sort codes. Our systems are designed to flag unusual patterns, but we will never ask you to compromise your security details or read out OTPs to 'help' us with an investigation.
+
+C: Thank you. I just feel so shaken.
+
+A: I completely understand, Ms Davies. It's a very upsetting situation, but please be assured we are taking this seriously and will do our best to resolve it for you. Is there anything else I can assist you with today, or any other questions you have?
+
+C: No, I think that's everything for now. Thank you so much, Alex. You've been very helpful.
+
+A: You're most welcome, Ms Davies. Please remember to change those passwords. We'll be in touch with that letter. Thank you for calling Bank Name and have a good day.
+
+C: You too. Goodbye.
+
+A: Goodbye.

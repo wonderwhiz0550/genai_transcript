@@ -1,0 +1,75 @@
+A: Good morning, you're through to Sarah at Britannia Bank. How can I help you today?
+
+C: Sarah, thank goodness. I think I've been hacked. I'm looking at my credit card statement online and there are charges on there that definitely aren't mine. I'm absolutely furious, and a bit scared to be honest.
+
+A: I understand this must be very distressing, Mr. Davies. Please try to stay calm. My priority right now is to secure your accounts and investigate this for you. To confirm, are you Mr. George Davies, account ending 7890?
+
+C: Yes, that's me. George Davies.
+
+A: Thank you for confirming, Mr. Davies. Can you tell me a little more about the transactions you're seeing? What dates are they from and what are the amounts?
+
+C: Well, there are three of them. One for £850 to something called 'ElectroMart Online', another for £620 to 'Global Gadgets', and a smaller one for £150 to 'QuickBytes Food Delivery'. All from this morning, between 9 and 10 AM. I was out walking the dog then, definitely not buying anything.
+
+A: I see. And just to be absolutely clear, you did not make these purchases yourself, nor did you authorise anyone else to make them?
+
+C: No, absolutely not! I haven't used my card for online shopping in days. This is completely out of the blue. Though, now that I think about it, I did get a really weird text message yesterday.
+
+A: Could you tell me more about that text message, Mr. Davies?
+
+C: It looked like it was from the bank, like one of your usual bank alerts. It said something about unusual activity on my account and asked me to click a link to verify my details or my account would be locked. I thought it was genuine because it came up in the same thread as other legitimate messages from you.
+
+A: And did you click on that link, Mr. Davies?
+
+C: Yes, I did. It took me to a page that looked exactly like Britannia Bank's online banking login. It asked for my username and password. I put them in, and then it asked me to download a security update for my browser. I thought it was part of the process, you know, to secure my account. I downloaded it, and then it just went back to the regular login page. I remember thinking it was a bit odd, but then I just logged in properly and everything seemed fine.
+
+A: Thank you for providing that detail, Mr. Davies. That's very important information. It sounds like you may have inadvertently downloaded what we call 'malware' onto your device, possibly a Remote Access Trojan. This kind of software can give fraudsters remote control of your computer and even record your keystrokes, capturing your login details and card information.
+
+C: Oh god. So that's what happened? I feel so stupid.
+
+A: Please don't feel that way, Mr. Davies. These attacks are becoming increasingly sophisticated, and it's easy to be fooled. Fraudsters are very clever at making their fake alerts look legitimate. Now, can you tell me, when you logged in properly after that, what device were you using? Was it a laptop, a desktop computer, or a mobile phone?
+
+C: It was my laptop. My personal one. I always use it for online banking.
+
+A: Understood. And just to be absolutely certain, after you entered your login details on that suspicious page, did it ask you for any other codes, like a One-Time Passcode or a PIN?
+
+C: Yes, it did! It asked for a One-Time Passcode. I put it in because I thought it was part of the security check after the 'update'. I thought it was just confirming my identity.
+
+A: Right. That One-Time Passcode is crucial, Mr. Davies, as it authorises transactions. Sharing it, even on what appears to be a bank page, gives fraudsters the ability to complete actions on your account. I'm immediately going to block your credit card to prevent any further unauthorised spending.
+
+C: Thank you. What about the money? Will I get it back?
+
+A: Our fraud team will investigate this thoroughly, and we'll follow the guidelines set by UK Finance regarding victim reimbursement. However, we need to secure everything first. Mr. Davies, I'm also seeing some significant activity on your linked current account. Two large Faster Payments transfers were initiated this morning, totalling over £3,000. Were you expecting to make any payments from your current account today?
+
+C: My current account? No! Absolutely not! Faster Payments? Where did it go? Oh my God, this is worse than I thought! I didn't even check that account! This is a nightmare!
+
+A: Please take a deep breath, Mr. Davies. I understand this is incredibly stressful. These transfers appear to have gone to accounts with different sort codes and account numbers to any you've previously transacted with. This is consistent with the type of fraud where fraudsters gain remote access and then empty linked accounts using Faster Payments. I'm going to place an immediate hold on your current account and freeze your online banking access. This will prevent any further unauthorised activity.
+
+C: So, they just logged in as me and sent my money? Just like that?
+
+A: Unfortunately, yes. With your login credentials and that One-Time Passcode, they would have been able to access your online banking and initiate those transfers. It's why we always advise customers never to share any security codes, even if prompted by a page that looks legitimate. We will also need to cancel your existing online banking username and password, and we'll set up a process for you to create new, secure login details once this is resolved.
+
+C: What do I do now? My laptop, is it safe to use?
+
+A: It is absolutely crucial that you do not use that laptop for any online banking, shopping, or any sensitive activities until it has been thoroughly scanned for malware and professionally cleaned. We strongly recommend you take it to a reputable IT specialist. You should also change all your important passwords – not just for your bank, but for email, social media, and any other online accounts – using a different, secure device, like a mobile phone or a different computer that you know is clean.
+
+C: Okay, okay. I'll do that. This is just... it's a lot to take in.
+
+A: I understand, Mr. Davies. We're here to help you through this. I've now blocked your credit card, put a hold on your current account, and frozen your online banking access. Your new credit card will be ordered and should arrive within 3 to 5 working days. Our specialist fraud investigation team will now take over your case. They will review all the details you've provided, analyse the transactions, and will be in contact with you within 48 hours to discuss the next steps, including the potential recovery of your funds.
+
+C: Forty-eight hours? So I just wait?
+
+A: Yes, they will be in touch directly. In the meantime, please remember our advice about your laptop and changing your passwords. We'll also send you an email shortly with a summary of what we've discussed and some general security advice from UK Finance on how to protect yourself from these types of scams. Your reference number for this case is BRIT0723GD456. Please make a note of that.
+
+C: BRIT0723GD456. Got it. Thank you, Sarah. I really appreciate your help. I'm still shaking a bit.
+
+A: I completely understand, Mr. Davies. It's a very unsettling experience. Please rest assured we are taking this very seriously. Is there anything else I can assist you with right now, or any other questions you have?
+
+C: No, I don't think so. I just want this sorted.
+
+A: We will do our best to resolve this for you as quickly as possible. Please remember that Britannia Bank will never ask you for your full PIN or your One-Time Passcodes over the phone, in an email, or via a link. Always be suspicious of unexpected requests for personal information.
+
+C: I've learned that the hard way, haven't I?
+
+A: It's a tough lesson, Mr. Davies, but your honesty has been incredibly helpful in allowing us to act quickly. Thank you for calling Britannia Bank. Goodbye.
+
+C: Goodbye.

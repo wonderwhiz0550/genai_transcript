@@ -1,0 +1,83 @@
+Call Transcript
+
+Agent: Good morning, thank you for calling National Bank. My name is Sarah, how can I help you today?
+
+Customer: Sarah, thank you. Look, I'm absolutely furious. Something is seriously wrong with my credit card account. My name is Mr. Johnson, David Johnson. I've been trying to log into my online banking all morning and it just won't let me. And then I started getting these… these really strange alerts.
+
+Agent: I understand your frustration, Mr. Johnson. Let me first bring up your details and see what's happening. For security purposes, could you please confirm your full name and date of birth?
+
+Customer: Yes, it's David Johnson, D-A-V-I-D J-O-H-N-S-O-N. And my date of birth is the 17th of March, 1975.
+
+Agent: Thank you, Mr. Johnson. And could you also confirm the first line of your address and your postcode, please?
+
+Customer: It's 24 Elm Street, Birmingham, B12 3CD.
+
+Agent: Excellent, thank you for that. I'm just accessing your account now. Right, I see a credit card account here under your name. You mentioned you're having trouble logging in and receiving strange alerts. Could you elaborate on what kind of alerts you've been seeing?
+
+Customer: Well, first I got a text message last night, late, saying there was suspicious activity on my account and I needed to verify it by clicking a link. It looked exactly like the bank's texts, the logo and everything. I didn't click it then, but this morning I tried to log in as usual, and my password didn't work. Then I tried to reset it, and it said my email address wasn't recognised. My email address! I've had the same one for ten years!
+
+Agent: I see. So, the online banking system is telling you your registered email address is incorrect? That's definitely a cause for concern. Did you receive any other messages, perhaps emails, asking you to update details or confirm a login?
+
+Customer: Yes! Just before I called you, I got an email saying my contact details had been successfully updated. And it listed a totally different email address and a phone number I don't recognise. That's when I really started to panic. This is my credit card, Sarah, I use it for everything! What on earth is going on?
+
+Agent: Mr. Johnson, please try to stay calm. We take these matters very seriously. It sounds like you might be the target of a sophisticated phishing or social engineering scam. To help me understand the full picture, can you recall when you last successfully logged into your online banking or used your credit card without any issues?
+
+Customer: Hmm, I used the card yesterday evening for a supermarket shop, that was fine. I think I last logged in maybe two or three days ago, just to check my balance. Everything was normal then. No issues at all.
+
+Agent: And regarding that text message you mentioned receiving last night, the one about suspicious activity, did it ask you to enter any details like your full online banking password, your debit card PIN, or a One-Time Passcode, an OTP?
+
+Customer: Well, it wasn't the first one I got. I've had a few of those 'security alerts' over the last week or so, some by text, some by email. One of them, yeah, one of them did ask me to click a link and log in to verify my account. It looked so real, Sarah. The website looked identical to the National Bank one. I thought it was genuine. I entered my username, password, and then it asked for an OTP which came through to my phone, and I put that in too. It said something about 'confirming changes to my security settings'. I thought it was just the bank being extra careful.
+
+Agent: Thank you for being honest, Mr. Johnson. That's very important information. When you entered those details on that website, what device were you using? Was it your personal computer, a laptop, or your mobile phone?
+
+Customer: It was my laptop, at home. I always use that for banking.
+
+Agent: Okay. And to clarify, when you entered that One-Time Passcode, was it an OTP that came directly from National Bank to your registered mobile number, or did it seem to come from a different source?
+
+Customer: No, it came through as a standard text from 'National Bank', just like all the others. I assumed it was for the login I was doing. It was a six-digit code.
+
+Agent: I understand. Mr. Johnson, it appears your online banking credentials, including your password and a One-Time Passcode, have likely been compromised through a phishing attack. This means an unauthorised individual has gained access to your online banking. The change of contact details you observed – the email and phone number – is a common tactic used by fraudsters to maintain control and prevent you from receiving alerts once they've taken over the account. This allows them to execute unauthorised transactions without immediate detection.
+
+Customer: Oh my god. So someone has my account? What have they done? Have they taken money? I'm going to check my transactions right now.
+
+Agent: Please don't worry, Mr. Johnson, we're here to help you. I have already placed an immediate block on your credit card to prevent any further unauthorised activity. Let's look at the transactions together. Can you see any recent transactions on your account that you absolutely do not recognise?
+
+Customer: Right, let's see... Oh, this is bad. Really bad. There's a payment here for... wait, what is this? 'TechGadgetz Online' for two thousand pounds! And another one, 'Luxury Watches Direct', for three thousand five hundred! And then this one, it just says 'Online Transfer', for one thousand pounds, to some random sort code and account number. I don't recognise any of these! This is definitely not me!
+
+Agent: I see those transactions, Mr. Johnson. The 'TechGadgetz Online' and 'Luxury Watches Direct' purchases are consistent with high-value online retail fraud. The 'Online Transfer' for one thousand pounds, to an unknown sort code and account number, indicates a potential cash advance or payment to a mule account. This is where fraudsters transfer funds to another account, often held by an unwitting or complicit individual, to quickly move the money out of your reach.
+
+Customer: A mule account? So that money's gone? What about my two thousand and three and a half thousand? Will I get all this back? My credit score, what about that? This is a nightmare!
+
+Agent: Mr. Johnson, please be assured that we will launch a full fraud investigation into this. Because these are unauthorised transactions on your credit card, you are protected under the UK Finance industry code. Generally, for credit card fraud where you haven't authorised the transactions, you are not liable for the fraudulent spending. We will work to reverse these charges. The process for the 'Online Transfer' via Faster Payments can be more complex, but we will certainly pursue recovery of those funds.
+
+Customer: How long will this take? I need my credit card!
+
+Agent: I understand your urgency, Mr. Johnson. The investigation will begin immediately. We will issue you a brand new credit card, with a new card number, expiry date, and CVV, which should arrive within three to five business days. We will also need to completely reset your online banking credentials, so you'll receive instructions on setting up a new username and password, ensuring the fraudster no longer has any access.
+
+Customer: So I'll have to set up all my direct debits again? And all my saved details for online shopping?
+
+Agent: For your credit card, yes, you will need to update those details wherever you have them stored, as the card number will change. It's a necessary step to secure your account moving forward. For your direct debits linked to a current account, those should remain unaffected, as this specific incident relates to your credit card.
+
+Customer: What about these fake texts and emails? How do I stop them?
+
+Agent: That's a very good question. These fraudsters often target many individuals at once. The best practice is to always be suspicious of any unsolicited texts or emails asking for personal information, even if they appear to be from your bank. Always check the sender's email address carefully, and if there's a link, hover over it to see the actual URL before clicking. If you're ever unsure, the safest thing to do is to close the message and navigate directly to our official website by typing the address into your browser, or call us on the number listed on our website or the back of your card. Never use a number or link from a suspicious message. We will also be reporting this specific phishing campaign to UK Finance, which is the collective voice for the banking and finance industry, to help combat these types of scams across the sector.
+
+Customer: So, what happens next? Will someone call me?
+
+Agent: Yes, our specialist fraud team will be reviewing your case. You'll receive an email from us within 24 hours confirming the details of this report and your reference number. It's important that you do not reply to any suspicious emails or texts that you may still receive. We will communicate with you through secure messaging within your new online banking portal once it's set up, or by post for sensitive information. We also recommend that you report this incident to Action Fraud, which is the UK's national reporting centre for fraud and cyber crime. They can be reached online or by phone, and they will give you a crime reference number.
+
+Customer: Action Fraud, okay. And you're sure I'll get my money back?
+
+Agent: Mr. Johnson, based on the information you've provided, these are clearly unauthorised transactions, and we will do everything we can to recover the funds and ensure you are not out of pocket. Our investigation will confirm the full details. Your credit score should not be negatively impacted by fraudulent activity that is reported and investigated. We will add a note to your credit file explaining the situation.
+
+Customer: Alright. Well, thank you, Sarah. You've been very helpful, even though this is a complete nightmare. I'm just so angry with myself for falling for it.
+
+Agent: Please don't blame yourself, Mr. Johnson. These fraudsters use extremely convincing tactics and sophisticated social engineering. They prey on people's trust and urgency. The most important thing is that you've reported it, and we can now take action. Your immediate action to contact us has allowed us to stop further losses. Is there anything else I can assist you with today, or any other questions you have about this?
+
+Customer: No, I think that's everything for now. Just get it sorted, please.
+
+Agent: Absolutely, Mr. Johnson. Your reference number for this fraud case is F-R-D-2-0-2-4-0-9-8-7-6. Please keep this safe for any future correspondence. You'll receive the new card and online banking instructions shortly. Thank you for calling National Bank, and please remember to be vigilant against any further suspicious communications.
+
+Customer: I will. Thanks again, Sarah. Goodbye.
+
+Agent: Goodbye, Mr. Johnson.

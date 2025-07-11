@@ -1,0 +1,58 @@
+A: Good morning, you're through to Horizon Bank, my name is Sarah. How can I help you today?
+C: Good morning, Sarah. I need help. I think my account has been taken over. I'm seeing some really strange transactions on my credit card, and I can't even log into my online banking properly. I'm really worried.
+
+A: I understand this must be very concerning for you, and I assure you we'll do everything we can to help. To access your account securely, could I please take your full name and the first line of your address?
+C: Yes, it's John Smith, and it's 123 High Street, Anytown, AB1 2CD.
+
+A: Thank you, Mr. Smith. And just to confirm, could you please provide your date of birth?
+C: It's 15th May 1978.
+
+A: Thank you. Please bear with me one moment while I bring up your details. Right, I can see your accounts here. You mentioned unusual transactions on your credit card. Could you tell me more about what you're seeing?
+C: Yes, I just checked my app – well, I eventually managed to get in – and there are two huge transactions. One for £1,500 at 'Tech Gadgets Online' and another for £900 at 'Luxury Goods Store'. I definitely didn't make those. This is ridiculous, I'm so frustrated.
+
+A: I completely understand your frustration, Mr. Smith. Those certainly sound like unauthorised transactions. To help me investigate, could you tell me when you first noticed these transactions?
+C: Just this morning. I got a text message, supposedly from the bank, saying there was a new login from an unfamiliar device. I thought it was strange, but then I couldn't log in myself. I've been getting these weird texts and emails all week, supposedly from you, about security updates.
+
+A: Thank you for providing that detail, Mr. Smith. It's very helpful. You mentioned getting strange texts and emails. Did any of those messages ask you to click on a link or verify your details?
+C: Yes, they did. One email looked exactly like your bank's website. It said there was a security alert and I needed to log in to confirm my details. I think I did that a couple of days ago. It asked for my online banking username, password, and then my credit card number, expiry date, and the security code from the back. I thought it was legitimate because it looked so real.
+
+A: I see. And after you entered those details, did anything unusual happen with your online banking access or your registered phone number?
+C: That's another thing! My phone number. I tried to get an OTP earlier to log in, and it said the number was invalid. I had to call customer service just to reset my access. It was like my registered number had been changed without me knowing.
+
+A: Mr. Smith, based on what you've described, it sounds very much like you've been targeted by a sophisticated phishing scam. Criminals create very convincing fake websites and emails to trick people into giving away their online banking credentials and card details. Once they have that access, they often try to change your registered contact details to bypass our security measures, like One-Time Passcodes, and then use your card for fraudulent purchases.
+C: Oh my god, so that's what happened? I feel so stupid.
+
+A: Please don't feel that way, Mr. Smith. These scams are becoming increasingly sophisticated, and it's easy to be caught out. My priority now is to secure your accounts and investigate these transactions. First, I need to immediately cancel your credit card to prevent any further unauthorised activity. Is that okay with you?
+C: Yes, please, cancel it straight away.
+
+A: Right, that's done. A new card will be issued to your registered address within 3 to 5 working days. Now, regarding your online banking, we need to ensure your access is fully secure. Have you changed your online banking password since this happened?
+C: Yes, I managed to do that just before I called you.
+
+A: Excellent. That's a very important step. I'm also going to put a temporary block on any Faster Payments from your current account, just as a precaution, until we're certain no other accounts have been compromised. This is a standard procedure in these situations.
+C: Okay, thank you.
+
+A: To formally log this as a fraud case, I need to ask a few more questions. When did you last log into your legitimate online banking portal before this incident, not counting the suspicious login attempt? And what device were you using at the time?
+C: I think it was last Tuesday, on my laptop. Everything seemed normal then.
+
+A: Thank you. And just to confirm, aside from the transactions you've mentioned on your credit card, have you noticed any other unusual activity on your current account or any other accounts with us? For example, any direct debits you don't recognise, or any small, test transactions?
+C: Not that I've seen yet, but I haven't gone through everything with a fine-tooth comb. I just saw the credit card charges and panicked.
+
+A: That's perfectly understandable. We'll conduct a full review of all your accounts as part of our investigation. Now, for the fraudulent credit card transactions, we will raise a dispute on your behalf. We'll start the chargeback process with the merchants involved. This is a process where we attempt to recover the funds from the retailer. It can take some time, typically up to 30 days for a provisional credit to appear, but we will keep you updated on the progress.
+C: So I'll get my money back?
+
+A: We will do everything we can to recover the funds, Mr. Smith. We'll be working on your behalf. I'm also advising you to report this incident to Action Fraud, which is the UK's national reporting centre for fraud and cyber crime. They collect information and can provide a crime reference number, which can be useful. You can find their details on the UK Finance website, or I can give you the number at the end of the call.
+C: Action Fraud, okay.
+
+A: Additionally, I strongly recommend that you check your devices for any malicious software, such as viruses or keyloggers, that might have been installed. Running a full scan with reputable antivirus software would be wise. And please, be extra vigilant about any unsolicited emails or texts. Remember, we will never ask you for your full password, PIN, or One-Time Passcode via email or text, or ask you to click a link to 'verify' your details. If you're ever in doubt, always navigate directly to our official website or call us using the number on the back of your card.
+C: Yes, I've learned that the hard way, haven't I?
+
+A: It's a tough lesson, Mr. Smith, but an important one. We've taken the immediate steps to secure your accounts. Your credit card is cancelled, a new one is on its way, your online banking password has been changed, and we've put a temporary block on Faster Payments from your current account. Your case has been escalated to our specialist Fraud Team, and they will be in touch within 24 to 48 hours to discuss the investigation further. You'll receive an SMS with a reference number for this call shortly, which is HZBFRAUD789012.
+C: Thank you, Sarah. I really appreciate your help. I was so worried.
+
+A: You're most welcome, Mr. Smith. We're here to help. Is there anything else I can assist you with today, or any other questions you have?
+C: No, I think that's everything for now. Thank you again.
+
+A: It's been my pleasure. Please remember to report to Action Fraud and scan your devices. Have a good day, Mr. Smith.
+C: You too. Goodbye.
+
+A: Goodbye.

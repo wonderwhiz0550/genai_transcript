@@ -1,0 +1,36 @@
+A: Good morning, you're through to Sarah at BritBank. How can I help you today?
+C: Oh, thank goodness. Sarah, I'm calling about my credit card. I've just checked my online banking and there are some transactions I absolutely did not make. I'm really worried. This is a nightmare!
+A: I understand, Mr. Smith. I'm sorry to hear you're experiencing this. Let's get this looked into immediately. To start, could you please confirm your full name, date of birth, and the first line of your address for security?
+C: John Smith, born 15th March 1980, and I live at 24 Elm Street, London SW1A 0AA. My postcode is SW1A 0AA.
+A: Thank you, Mr. Smith. And just to confirm, could you provide your sort code and account number, or your mother's maiden name?
+C: My sort code is 12-34-56, account number 98765432. And it's 'Brown'.
+A: Thank you for that. I'm now securely on your account. You mentioned unusual activity on your credit card. Could you tell me more about what you're seeing?
+C: Yes, there are three transactions from this morning. One for £800 at 'Tech Superstore', another for £550 at 'Gadget World', and a third for £300 at 'Quick Electronics'. All within an hour! I haven't bought anything like that. And they all say 'contactless'.
+A: I see those here, Mr. Smith. That's certainly concerning. Have you recently received any unusual text messages or emails that claimed to be from BritBank or another official source? Perhaps asking you to verify details or click a link?
+C: Yes! That's exactly it. A few days ago, I got a text saying there was suspicious activity and to click a link to secure my account. It looked really legitimate. I didn't click it, I don't think. Or maybe I did? I'm so stressed right now. And then my phone just stopped working yesterday for a bit. I thought it was just a network issue.
+A: Okay, thank you for telling me that. It's important information. Did you at any point enter your online banking log-in details or any One-Time Passcodes, what we call OTPs, after receiving any such message, or if your phone service was disrupted?
+C: No, I'm usually really careful with OTPs. I don't think so. I mean, my phone was off for a few hours yesterday afternoon, totally dead, no signal. Then it just came back on.
+A: Right, thank you. And when was the last time you personally logged into your online banking or used our mobile app from your usual device?
+C: I think I checked my balance two days ago on my phone. Nothing since then.
+A: And what kind of device do you normally use for your online banking? Is it a mobile phone, a tablet, or a computer?
+C: My mobile phone, primarily. An iPhone.
+A: Okay. Do you use a digital wallet service, like Apple Pay or Google Pay, with this credit card on your phone?
+C: Yes, I use Apple Pay.
+A: Have you recently added this credit card to any new digital wallet on a different device, or authorised any changes to your mobile phone contract or SIM card with your network provider?
+C: No, definitely not. I haven't bought a new phone, and I certainly haven't spoken to my network about my SIM.
+A: Thank you for confirming, Mr. Smith. Based on what you've described, particularly the texts, the phone disruption, and the nature of these contactless transactions, it sounds like you may have been a victim of a sophisticated fraud technique, possibly involving a SIM swap. This is where fraudsters convince your mobile network to transfer your phone number to a SIM card they control.
+C: A SIM swap? So they got my phone number? And then they could get into my bank? This is a nightmare!
+A: I understand your concern, Mr. Smith. We're here to help. What typically happens in these cases is that once they control your phone number, they can receive OTPs, allowing them to log into your online banking. They then often add your credit card to a digital wallet on their own device and make these types of high-value contactless purchases.
+C: So they have my card details? My whole account?
+A: We will block your credit card immediately to prevent any further transactions. I'm doing that now. I also recommend we temporarily block your online banking access for your security, just while we investigate. You can reactivate it once we're sure your devices are secure.
+C: Please do! Just stop them.
+A: I've now placed a block on your card and temporarily suspended your online banking access. These transactions are clearly fraudulent. We will initiate a full fraud investigation. This will be reported to UK Finance, which helps track these types of scams across the industry.
+C: What do I need to do? Will I get my money back?
+A: Our fraud team will investigate thoroughly. We aim to resolve these cases as quickly as possible. You should also contact your mobile network provider as soon as possible to report the suspected unauthorised SIM swap and secure your number. It's crucial they investigate their side.
+C: My mobile provider... right.
+A: Yes. For your records, the reference number for this fraud report is FB789123. We will be in touch within five working days with an update, but please be aware that investigations can sometimes take longer depending on complexity. In the meantime, please check your other accounts for any unusual activity and avoid clicking on any suspicious links or responding to unexpected calls.
+C: Okay. Thank you, Sarah. I really appreciate your help. I was so worried.
+A: You're welcome, Mr. Smith. We're here to support you through this. Is there anything else I can assist you with today, or any other questions you have?
+C: No, I think that's everything for now. Just get it sorted.
+A: We're on it, Mr. Smith. Please remember to contact your mobile network provider. You can reach us again on this number if you have any further concerns. Goodbye for now.
+C: Goodbye.
