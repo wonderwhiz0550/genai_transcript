@@ -1,4 +1,4 @@
-=========================
+
 Step-by-Step Setup Instructions of Google Gemini API
 =========================
 1. Navigate to Project Folder
