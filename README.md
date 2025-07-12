@@ -1,4 +1,26 @@
-Resume Python Project Guide
+=========================
+Step-by-Step Setup Instructions of Google Gemini API
+=========================
+1. Navigate to Project Folder
+- Command: cd /Users/shubhadeepdas/Documents/data_science/projects/genai_transcript
+- Explanation: Sets the working directory.
+2. Activate Virtual Environment
+- Command: source venv/bin/activate
+- Explanation: Activates your project’s isolated Python environment.
+3. Install Required Library
+- Command: pip install -U google-generativeai
+- Explanation: Installs the Google Generative AI library for Gemini 2.5 Flash.
+4. Get Gemini API Key
+- Action: Sign up at https://aistudio.google.com, go to https://aistudio.google.com/app/apikey, create an API key, and copy it.
+- Explanation: Enables free-tier access to Gemini 2.5 Flash.
+5. Update and Run Notebook
+- Action: Open genai_transcript.ipynb in JupyterLab (jupyter lab).
+- Replace your-gemini-api-key-here with your Gemini API key.
+6.Run the cells to generate a bank agent-customer transcript.
+- Explanation: Tests the model’s ability to create realistic dialogue for fraud analysis.
+
+=========================
+Python Project Guide
 =========================
 This guide helps you resume your Python project in /Users/shubhadeepdas/Documents/data_science/projects/genai_transcript with JupyterLab and GitHub (https://github.com/svdp2304/genai_transcript).
 
@@ -47,22 +69,3 @@ Notes:
 - If the GitHub repo uses 'master' instead of 'main', replace 'main' with 'master' in Git commands.
 - Deactivate the virtual environment when done: deactivate
 - For errors, check git status, git branch, or contact support with error messages.
-
-# Step-by-Step Setup Instructions of Google Gemini API
-1. Navigate to Project Folder
-- Command: cd /Users/shubhadeepdas/Documents/data_science/projects/genai_transcript
-- Explanation: Sets the working directory.
-2. Activate Virtual Environment
-- Command: source venv/bin/activate
-- Explanation: Activates your project’s isolated Python environment.
-3. Install Required Library
-- Command: pip install -U google-generativeai
-- Explanation: Installs the Google Generative AI library for Gemini 2.5 Flash.
-4. Get Gemini API Key
-- Action: Sign up at https://aistudio.google.com, go to https://aistudio.google.com/app/apikey, create an API key, and copy it.
-- Explanation: Enables free-tier access to Gemini 2.5 Flash.
-5. Update and Run Notebook
-- Action: Open genai_transcript.ipynb in JupyterLab (jupyter lab).
-- Replace your-gemini-api-key-here with your Gemini API key.
-6.Run the cells to generate a bank agent-customer transcript.
-- Explanation: Tests the model’s ability to create realistic dialogue for fraud analysis.
