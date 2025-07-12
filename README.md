@@ -19,7 +19,8 @@ Step-by-Step Setup Instructions of Google Gemini API
 6.Run the cells to generate a bank agent-customer transcript.
 - Explanation: Tests the model’s ability to create realistic dialogue for fraud analysis.
 
-=========================
+-------------------------
+
 Python Project Guide
 =========================
 This guide helps you resume your Python project in /Users/shubhadeepdas/Documents/data_science/projects/genai_transcript with JupyterLab and GitHub (https://github.com/svdp2304/genai_transcript).
