@@ -18,9 +18,22 @@ import logging
 import re
 
 # Define home path for output and repository (modify this for your system)
-HOME_PATH = '/Users/shubhadeepdas/Documents/data_science/projects/genai_transcript'  # Change this to your base directory
-output_dir = os.path.join(HOME_PATH, 'output')
-repo_path = os.path.join(output_dir, 'feature_repository')
+#HOME_PATH = '/Users/shubhadeepdas/Documents/data_science/projects/genai_transcript'  # Change this to your base directory
+#output_dir = os.path.join(HOME_PATH, 'output')
+#repo_path = os.path.join(output_dir, 'feature_repository')
+#-------------------------------------------------
+import os
+from pathlib import Path
+
+# Dynamically set the HOME_PATH relative to the current file location
+HOME_PATH = Path(__file__).resolve().parent.parent  # one level up from 'scripts' or 'streamlit_app'
+output_dir = HOME_PATH / 'output'
+repo_path = output_dir / 'feature_repository'
+
+# Create directories if they don't exist (important in Streamlit deployment)
+os.makedirs(output_dir, exist_ok=True)
+os.makedirs(repo_path, exist_ok=True)
+#--------------------------------------------
 
 # Configure logging to track script execution and errors
 logging.basicConfig(
