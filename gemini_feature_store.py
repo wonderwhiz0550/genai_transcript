@@ -2,8 +2,8 @@ import json
 import pandas as pd
 import hashlib
 from datetime import timedelta
-from feast import FeatureStore, Entity, FeatureView, Field, FileSource
-from feast.types import Float32, String
+#from feast import FeatureStore, Entity, FeatureView, Field, FileSource
+#from feast.types import Float32, String
 import os
 import shap
 import streamlit as st
@@ -78,26 +78,26 @@ def rank_features_with_shap(df, feature_data_path, target_column):
 # C) FEAST REGISTRATION
 # -----------------------------
 
-def register_features_in_feast(df, feature_store_path="my_feature_repo"):
-    store = FeatureStore(repo_path=feature_store_path)
-    user = Entity(name="user_id", join_keys=["user_id"])
-    store.apply([user])
+#def register_features_in_feast(df, feature_store_path="my_feature_repo"):
+#    store = FeatureStore(repo_path=feature_store_path)
+#    user = Entity(name="user_id", join_keys=["user_id"])
+#    store.apply([user])
 
-    for _, row in df.iterrows():
-        feature_name = row['new_feature_name']
-        feature_view = FeatureView(
-            name=feature_name,
-            entities=["user_id"],
-            ttl=timedelta(days=1),
-            schema=[
-                Field(name=feature_name, dtype=Float32),
-            ],
-            source=FileSource(
-                path=f"data/{feature_name}.parquet",
-                event_timestamp_column="event_time",
-            ),
-        )
-        store.apply([feature_view])
+ #   for _, row in df.iterrows():
+#        feature_name = row['new_feature_name']
+#        feature_view = FeatureView(
+ #           name=feature_name,
+#            entities=["user_id"],
+#            ttl=timedelta(days=1),
+#            schema=[
+#                Field(name=feature_name, dtype=Float32),
+#            ],
+#            source=FileSource(
+ #               path=f"data/{feature_name}.parquet",
+ #               event_timestamp_column="event_time",
+  #          ),
+   #     )
+    #    store.apply([feature_view])
 
 
 # -----------------------------
