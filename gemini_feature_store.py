@@ -22,12 +22,12 @@ def load_llm_features(json_path):
 
 def generate_feature_code(feature_row):
     logic = f"""
-def compute_{feature_row['new_feature_name']}(df):
+#def compute_{feature_row['new_feature_name']}(df):
     # Required vars: {feature_row['required_raw_variables']}
     # Logic: {feature_row['description']}
     # This is a placeholder function - implement actual logic.
     df['{feature_row['new_feature_name']}'] = 0.0
-    return df
+#    return df
 """
     return logic
 
