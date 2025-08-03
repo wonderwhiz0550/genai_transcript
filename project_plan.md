@@ -113,3 +113,12 @@ To ensure a structured and manageable approach to Phase 2, I’ve broken it down
 ### Validate and Save Results:
 - Combine analysis (patterns, MO, validation results) and feature recommendations into a single CSV.
 - Sync with GitHub (https://github.com/svdp2304/genai_transcript).
+
+# Fraud Type: CNP
+## Step 1: Generate 5 Card Not Present (CNP) Fraud Modus Operandi
+### Objective: 
+Generate 5 unique CNP fraud modus operandi using Gemini 2.5 Flash, each describing a distinct method of perpetrating CNP fraud (e.g., stolen card details, online phishing, skimming). Save the results in a CSV for use in subsequent steps.
+
+### Approach: 
+Use Gemini 2.5 Flash to generate the modus operandi, similar to the ATO process, ensuring alignment with UK banking context (e.g., Faster Payments, sort code). Store results with columns: Case_ID, Scenario, Fraud_Modus_Operandi.
+
