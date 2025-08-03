@@ -120,7 +120,7 @@ def launch_streamlit_ui(df):
 # -----------------------------
 
 def main():
-    llm_features_path = "gemini_feature_recommendations.json"
+  #  llm_features_path = "gemini_feature_recommendations.json"
     feature_data_path = "data"
     target_column = "is_fraud"  # Must exist in each .parquet for SHAP ranking
 
