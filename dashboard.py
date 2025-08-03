@@ -18,7 +18,7 @@ import logging
 import re
 
 # Define home path for output and repository (modify this for your system)
-HOME_PATH = '/Users/wonderwhiz/Documents/data_science/projects/genai_transcript'  # Change this to your base directory
+HOME_PATH = '/Users/shubhadeepdas/Documents/data_science/projects/genai_transcript'  # Change this to your base directory
 output_dir = os.path.join(HOME_PATH, 'output')
 repo_path = os.path.join(output_dir, 'feature_repository')
 
