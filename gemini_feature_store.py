@@ -130,7 +130,7 @@ def main():
     df = rank_features_with_shap(df, feature_data_path, target_column)
     print("Top recommended features:\n", df[['new_feature_name', 'importance_score']].head())
 
-    register_features_in_feast(df)
+   # register_features_in_feast(df)
     launch_streamlit_ui(df)
 
 
