@@ -14,7 +14,7 @@ from sklearn.metrics import classification_report
 # -----------------------------
 # A) AUTO-GENERATE FEATURES
 # -----------------------------
-"""
+
 def load_llm_features(json_path):
     with open(json_path, 'r') as f:
         data = json.load(f)
@@ -22,13 +22,13 @@ def load_llm_features(json_path):
 
 def generate_feature_code(feature_row):
     logic = f"""
-#def compute_{feature_row['new_feature_name']}(df):
+def compute_{feature_row['new_feature_name']}(df):
     # Required vars: {feature_row['required_raw_variables']}
     # Logic: {feature_row['description']}
     # This is a placeholder function - implement actual logic.
     df['{feature_row['new_feature_name']}'] = 0.0
-#    return df
-"""
+    return df
+
     return logic
 
 def save_feature_logic_scripts(df, output_dir="generated_features"):
