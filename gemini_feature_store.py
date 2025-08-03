@@ -14,7 +14,7 @@ from sklearn.metrics import classification_report
 # -----------------------------
 # A) AUTO-GENERATE FEATURES
 # -----------------------------
-
+"""
 def load_llm_features(json_path):
     with open(json_path, 'r') as f:
         data = json.load(f)
@@ -38,7 +38,7 @@ def save_feature_logic_scripts(df, output_dir="generated_features"):
         code = generate_feature_code(row)
         with open(os.path.join(output_dir, f"{feature_name}.py"), 'w') as f:
             f.write(code)
-
+"""
 
 # -----------------------------
 # B) FEATURE RANKING (SHAP)
