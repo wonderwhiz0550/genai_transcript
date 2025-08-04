@@ -51,7 +51,9 @@ os.makedirs(output_dir, exist_ok=True)
 os.makedirs(repo_path, exist_ok=True)
 
 # Initialize Gemini API for generating MO and features
-GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+#GOOGLE_API_KEY = os.getenv('GOOGLE_API_KEY')
+GOOGLE_API_KEY = "AIzaSyA-9N4KRv8LHPBYVa6vkL6hc_sQVZ2LRUE"
+
 if not GOOGLE_API_KEY:
     st.error("GOOGLE_API_KEY not found. Set it using 'export GOOGLE_API_KEY=your-key'.")
     st.stop()
