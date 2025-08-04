@@ -26,7 +26,7 @@ import os
 from pathlib import Path
 
 # Dynamically set the HOME_PATH relative to the current file location
-HOME_PATH = Path(__file__).resolve().parent.parent  # one level up from 'scripts' or 'streamlit_app'
+HOME_PATH = Path(__file__).parent  # one level up from 'scripts' or 'streamlit_app'
 output_dir = HOME_PATH / 'output'
 repo_path = output_dir / 'feature_repository'
 st.write("Path is " , repo_path)
