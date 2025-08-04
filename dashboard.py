@@ -29,6 +29,9 @@ from pathlib import Path
 HOME_PATH = Path(__file__).resolve().parent.parent  # one level up from 'scripts' or 'streamlit_app'
 output_dir = HOME_PATH / 'output'
 repo_path = output_dir / 'feature_repository'
+st.write("Path is " , repo_path)
+st.write("Home Path is "  , HOME_PATH)
+
 
 # Create directories if they don't exist (important in Streamlit deployment)
 os.makedirs(output_dir, exist_ok=True)
