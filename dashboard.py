@@ -29,8 +29,8 @@ from pathlib import Path
 HOME_PATH = Path(__file__).parent  # one level up from 'scripts' or 'streamlit_app'
 output_dir = HOME_PATH / 'output'
 repo_path = output_dir / 'feature_repository'
-st.write("Path is " , repo_path)
-st.write("Home Path is "  , HOME_PATH)
+#st.write("Path is " , repo_path)
+#st.write("Home Path is "  , HOME_PATH)
 
 
 # Create directories if they don't exist (important in Streamlit deployment)
@@ -317,7 +317,7 @@ def save_to_feature_repository(approved_features, transcript_id):
 # Configure Streamlit page layout
 # Purpose: Sets up a wide layout for the dashboard with a title
 st.set_page_config(page_title="Feature Recommendation POC", layout="wide")
-st.title("AI Powered Feature Recommendation From Call Transcript")
+st.title("Echo AI – Understanding what your customers really say")
 
 # Sidebar: Handles file upload and displays transcript history
 # Purpose: Allows users to upload .txt transcripts and view processed transcripts
