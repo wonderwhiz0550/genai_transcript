@@ -378,7 +378,7 @@ with st.sidebar:
         st.dataframe(history_df[['transcript_id', 'modus_operandi']], use_container_width=True)
     else:
         st.write("No transcripts processed yet.")
-  st.write("History file path:", history_path)
+    st.write("History file path:", history_path)
 
 
 # Main Content: Processes uploaded transcript through analysis steps
