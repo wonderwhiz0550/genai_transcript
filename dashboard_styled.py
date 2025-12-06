@@ -363,7 +363,7 @@ def save_to_feature_repository(approved_features, transcript_id):
 # Configure Streamlit page layout
 # Purpose: Sets up a wide layout for the dashboard with a title
 st.set_page_config(page_title="Feature Recommendation POC", layout="wide")
-st.title("Echo AI – Understanding what your customers really say")
+#st.title("Echo AI – Understanding what your customers really say")
 
 # Sidebar: Handles file upload and displays transcript history
 # Purpose: Allows users to upload .txt transcripts and view processed transcripts
@@ -378,6 +378,8 @@ with st.sidebar:
         st.dataframe(history_df[['transcript_id', 'modus_operandi']], use_container_width=True)
     else:
         st.write("No transcripts processed yet.")
+  st.write("History file path:", history_path)
+
 
 # Main Content: Processes uploaded transcript through analysis steps
 # Purpose: Displays MO, features, scores, SHAP plots, and allows feature approval
