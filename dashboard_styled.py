@@ -379,15 +379,7 @@ with st.sidebar:
     else:
         st.write("No transcripts processed yet.")
     st.write("History file path:", history_path)
-    if history_path.exists():
-        with open(history_path, "rb") as f:
-            st.download_button(
-                "Download Transcript History",
-                f,
-                "transcript_history.csv",
-                "text/csv"
-            )
-
+    
 # Main Content: Processes uploaded transcript through analysis steps
 # Purpose: Displays MO, features, scores, SHAP plots, and allows feature approval
 if uploaded_file:
