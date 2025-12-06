@@ -68,8 +68,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("🔍 Echo AI")
-st.markdown("##### Understanding what your customers *really* say — and turning it into fraud intelligence.")
+st.title("🔍 SenitneL-AI")
+st.markdown("##### Understanding what your customers *really* say")
 add_vertical_space(1)
 # ---------------------------------------------------------------------
 
